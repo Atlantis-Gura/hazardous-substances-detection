@@ -14,6 +14,7 @@ This hazardous substances detection system is designed to enhance workplace safe
 
 The repository is organized as follows:
 
+```
 github-repo-root
 ├── src
 │   ├── arduino_sketches
@@ -26,6 +27,7 @@ github-repo-root
 │   └── libs
 └── tools
     └── lcd-image-converter
+```
 
 ### `src` Directory
 
