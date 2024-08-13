@@ -1,0 +1,18 @@
+hazardous_substances_detection_system
+Copyright (c) 2024 Hang Yu
+
+This project incorporates portions of code from the following third-party projects:
+
+- bhopal84 (<https://github.com/ronibandini/bhopal84>)
+  Copyright (c) 2022 Roni Bandini
+  Licensed under the MIT License
+
+   One of the functions in 'main.ino' in this project references the logical structure and part of the code in the loop function in the file 'bhopal4.ino', and heavily refactors the original code.
+
+   The 'gasDataCollection.ino' in this project references the logical structure and parts of the code in the loop function of the file 'gasAcquisition2.ino', and heavily refactors the original code.
+
+The full text of the MIT License can be found in the LICENSE-MIT file.
+
+All new code created for this project, as well as modifications and additions to the original MIT-licensed code, are licensed under the Apache License, Version 2.0. The full text of this license can be found in the LICENSE-APACHE file.
+
+
